@@ -1,0 +1,5 @@
+# EFM Core Runtime Dependencies
+customtkinter>=6.0.0
+Pillow>=10.0.0
+darkdetect>=0.8.0
+packaging>=23.0
